@@ -21,13 +21,13 @@
 
 @media (prefers-color-scheme: light) {
   :root {
-  --background-color: #fff1f7;
-  --text-color: #353430;
-  --accent-color: #ff8dcb;
-  --title-decor-text-color: #353430;
-  --background-image: url(../images/cover-image-light.png);
-  --heading-color: #ffc2e6;
-  --rec-display: none;
-  --hover-border-color: rgba(53, 52, 48, 0.4);
+    --background-color: #fff1f7;
+    --text-color: #353430;
+    --accent-color: #ff8dcb;
+    --title-decor-text-color: #353430;
+    --background-image: url(../images/cover-image-light.png);
+    --heading-color: #ffc2e6;
+    --rec-display: none;
+    --hover-border-color: rgba(53, 52, 48, 0.4);
   }
 }
