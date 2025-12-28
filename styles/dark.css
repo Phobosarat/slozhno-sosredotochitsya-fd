@@ -21,4 +21,7 @@
   --gap-medium: 20px;
   --gap-large: 50px;
   --rec-display: inline-block;
+  --menu-button-color: #ff0070;
+  --menu-hover-border-color: rgba(255, 0, 112, 0.4);
+  --decor-color: #ff0070;
 }
