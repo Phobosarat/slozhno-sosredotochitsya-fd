@@ -18,5 +18,5 @@
   --menu-button-color: var(--accent-color);
   --menu-hover-border-color: rgba(255, 0, 112, 0.4);
   --decor-color: var(--accent-color);
-  --section-title-color: var(--text-color);
+  --section-title-color: var(--accent-color);
 }

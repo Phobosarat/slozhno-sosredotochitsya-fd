@@ -24,4 +24,5 @@
   --menu-button-color: #ff0070;
   --menu-hover-border-color: rgba(255, 0, 112, 0.4);
   --decor-color: #ff0070;
+  --section-title-color: var(--accent-color);
 }
